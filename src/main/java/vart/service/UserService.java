@@ -1,6 +1,6 @@
 package vart.service;
 
-import vart.model.User;
+import vart.domain.User;
 
 import java.util.List;
 

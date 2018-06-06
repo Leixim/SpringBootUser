@@ -3,7 +3,7 @@ package vart.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import vart.model.User;
+import vart.domain.User;
 import vart.repository.UserRepository;
 
 import java.util.List;
